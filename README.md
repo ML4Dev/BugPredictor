@@ -1,2 +1,2 @@
 # BugPredictor
-A framework to predict bugs into the code
+First ever open source framework to predict bugs from legacy and modern software using machine learning algorithms. 
